@@ -13,6 +13,10 @@ if(input.length % 2 !== 0) {
 }
 }
 console.log(result(input));
+console.log("Mencari Median dari");
+console.log("8, 7, 7, 9, 5, 4, 2, 9");
+console.log("");
+console.log("Result");
 
 
 
